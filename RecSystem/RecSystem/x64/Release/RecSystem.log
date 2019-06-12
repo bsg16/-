@@ -1,0 +1,9 @@
+﻿  RecSystem.cpp
+RecSystem.cpp(298): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  14 of 359 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RecSystem.vcxproj -> R:\程序\vs项目\RecSystem\x64\Release\RecSystem.exe
+  RecSystem.vcxproj -> R:\程序\vs项目\RecSystem\x64\Release\RecSystem.pdb (Full PDB)
